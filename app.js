@@ -12,7 +12,7 @@ const CONFIG = {
   intro: "Il y a dix couches entre toi et ce que j'ai à te dire. Chacune cache un jeu… et un petit morceau de mon cœur.",
 
   // Musique de fond (optionnelle) : démarre au premier clic. Laisse "" pour aucune.
-  musique: "musiques/notre-chanson.mp3",
+  musique: "",
   // Musique jouée à la finale (optionnelle). "" = garde la musique de fond.
   musiqueFinale: "",
 

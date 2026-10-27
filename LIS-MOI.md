@@ -14,7 +14,6 @@ Tout se règle dans le bloc `CONFIG` en haut de `app.js` :
 - `finale` : dernier mot, photos, question finale
 
 ## Fichiers à ajouter (facultatifs)
-- `musiques/notre-chanson.mp3` : musique de fond (démarre au premier clic)
 - `images/souvenir1.jpg` … `souvenir6.jpg` : les 6 photos du memory (couche 2) — tant qu'une manque, un emoji la remplace
 - `images/puzzle.jpg` : image du puzzle (carrée de préférence) — sinon une image de secours
 - `images/photo1.jpg`, `photo2.jpg`, `photo3.jpg` : polaroids de la finale
